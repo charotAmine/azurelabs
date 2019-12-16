@@ -18,7 +18,7 @@ First, Azure Labs was made using "Jekyll" and github pages. In other words, you 
 
 ## Step 1 : Organize the markdown file
 Your markdown file needs a specified organization : 
-![Generator](http-get.png)
+[http-get]: {{"/http-get.png" | prepend: site.imgrepo }}
 * An overview;
 * Prerequisites;
 * The lab;
